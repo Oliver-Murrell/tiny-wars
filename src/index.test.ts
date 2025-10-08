@@ -1,4 +1,4 @@
-import { sum } from './main';
+import { sum } from '.';
 
 describe('sum', () => {
     test('5 + 2 = 7', () => {
