@@ -35,3 +35,4 @@ const getFighters = () => {
 4. Stage files using the + symbol.
 5. Write a comment explaining the changes.
 6. Run commit and push button.
+7. Go to GitHub and "Compare and Pull Request"
